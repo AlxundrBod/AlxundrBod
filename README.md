@@ -1,7 +1,7 @@
 # Hi, I'm Aleksandr Bodrov 👋
 ### Full-Stack & Mobile Software Engineer
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Rurouni_ken)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rurouni_ken)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodrov.apps@gmail.com)
 
 ---
