@@ -1,8 +1,8 @@
 # Hi, I'm Aleksandr Bodrov 👋
 ### Full-Stack & Mobile Software Engineer
 
-[![Telegram](https://img.shields.io/badge/Telegram-Message_Me-2CA5E0?style=flat-square&logo=telegram)](https://t.me/@Rurouni_ken)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bodrov.apps@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@Rurouni_ken)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bodrov.apps@gmail.com)
 
 ---
 
@@ -20,7 +20,12 @@ I build robust, full-lifecycle digital products with an emphasis on **production
 ---
 
 ### 🛠️ Tech Stack & Tooling
-Frontend & Mobile: React Native 0.76 (Expo 52, Expo Router v4) | React 19 (SPA) | Skia 2D | Reanimated 3 | TypeScript Backend & APIs: Python 3.12 | FastAPI (Async) | Pydantic v2 | SQLAlchemy 2.0 | RESTful APIs Database & Storage: PostgreSQL | SQLite (Drizzle ORM) | Redis DevOps & Cloud: Linux (Ubuntu) | Nginx | Docker & Compose | Systemd | Git & GitHub Actions Ecosystems: Telegram WebApp SDK | Haptics | SecureStore & Biometrics
+
+* **Frontend & Mobile:** React Native 0.76 (Expo 52, Expo Router v4) • React 19 (SPA) • Skia 2D • Reanimated 3 • TypeScript
+* **Backend & APIs:** Python 3.12 • FastAPI (Async) • Pydantic v2 • SQLAlchemy 2.0 • RESTful APIs
+* **Database & Storage:** PostgreSQL • SQLite (Drizzle ORM) • Redis
+* **DevOps & Cloud:** Linux (Ubuntu) • Nginx • Docker & Compose • Systemd • GitHub Actions
+* **Ecosystems:** Telegram WebApp SDK • Haptics • SecureStore & Biometrics
 
 ---
 
